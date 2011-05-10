@@ -1,0 +1,13 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+name: CustomCamera
+moduleid: jp.masuidrive.ti.CustomCamera
+version: 0.1
+description: camera
+author: masuidrive
+license: MIT
+copyright: Copyright (c) 2010 by masuidrive
+platform: iphone
+minsdk: 1.3.2
